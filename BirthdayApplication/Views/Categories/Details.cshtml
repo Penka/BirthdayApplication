@@ -1,0 +1,13 @@
+﻿@model BirthdayApplication.ViewModels.CategoryViewModel
+
+
+<h2>@Model.Name</h2>
+
+<div class="row">
+    @foreach (var image in Model.Images)
+    {
+        <div class="span5">
+            <img src="@image.Url" alt="@image.Description" />
+        </div>
+    }
+</div>

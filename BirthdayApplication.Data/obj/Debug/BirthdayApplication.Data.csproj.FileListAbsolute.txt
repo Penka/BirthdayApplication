@@ -1,0 +1,12 @@
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\BirthdayApplication.Data.dll.config
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\BirthdayApplication.Data.dll
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\BirthdayApplication.Data.pdb
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\BirthdayApplication.Models.dll
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\EntityFramework.dll
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\BirthdayApplication.Models.pdb
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\EntityFramework.xml
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\obj\Debug\BirthdayApplication.Data.csprojResolveAssemblyReference.cache
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\obj\Debug\BirthdayApplication.Data.dll
+C:\Users\pboru_000\Desktop\BirthdayApplication\BirthdayApplication.Data\obj\Debug\BirthdayApplication.Data.pdb
